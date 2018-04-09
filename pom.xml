@@ -29,6 +29,7 @@
 				<version>2.3</version>
 				<configuration>
 					<warSourceDirectory>src/main/webapp</warSourceDirectory>
+          <warName>ROOT</warName>
 				</configuration>
 			</plugin>
       <plugin>
